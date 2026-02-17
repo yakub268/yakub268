@@ -1,44 +1,31 @@
 # Jacob
 
-Software engineer specializing in algorithmic trading systems, ML/AI pipelines, and financial automation. I build systems that run unattended — from signal generation to execution.
+Software engineer building production trading systems. Python, ML/AI, financial automation.
 
 ---
 
-## Featured Project
+## What I Build
 
-### [algo-trading-platform](https://github.com/yakub268/algo-trading-platform)
-A production trading system with 50+ strategy bots across crypto, forex, and prediction markets. Features an ML ensemble (XGBoost, LSTM), adaptive signal weighting via Brier scores, and a real-time Flask dashboard. Runs live on Alpaca, OANDA, Kalshi, and Polymarket.
+**[algo-trading-platform](https://github.com/yakub268/algo-trading-platform)** — Production trading system with 50+ strategy bots across crypto, forex, and prediction markets. 159K lines of Python. Features 8-source ML ensemble, HMM regime detection, Thompson sampling fleet controller, and real-time Flask dashboard. Runs live on Alpaca, OANDA, Kalshi, and Polymarket.
 
-- Multi-broker execution with unified risk controls
-- Ensemble ML signals: technical, macro, on-chain, sentiment, derivatives
-- Per-source calibration with walk-forward validation
-- Fleet architecture: Thompson sampling for bot selection, async scheduling
+**[quant-backtest-framework](https://github.com/yakub268/quant-backtest-framework)** — Backtesting framework with VectorBT engine, walk-forward optimization, Monte Carlo validation, and GO/NO-GO deployment gates. Strategies must pass quantitative thresholds before reaching production.
 
 ---
 
 ## Tech Stack
 
-**Languages & ML**
-Python · SQL · PowerShell · XGBoost · scikit-learn · LSTM (PyTorch)
+**Languages**: Python, SQL, PowerShell
 
-**Finance & Data**
-Alpaca · OANDA · Kalshi · Polymarket · CCXT · yfinance · FRED API · NewsAPI
+**ML/AI**: XGBoost, scikit-learn, PyTorch, TensorFlow, FinBERT
 
-**Infrastructure**
-SQLite · Flask · Task Scheduler · REST APIs · WebSockets · Telegram Bot API
+**Finance**: Alpaca, OANDA, Kalshi, Polymarket, CCXT, FRED API
+
+**Infrastructure**: Flask, SQLite, Docker, Kubernetes, Terraform, Telegram Bot API
 
 ---
 
 ## Currently
 
-- Running a live prediction-market trading system (Kalshi/Polymarket)
-- Building out a fleet of 19+ strategy bots with paper-to-live graduation pipeline
-- Learning: options pricing models, market microstructure
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakub268&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yakub268&layout=compact&hide_border=true&langs_count=6)
+- Running a live multi-asset trading system across 4 brokers
+- Paper testing a 19-bot fleet with Thompson sampling capital allocation
+- Building out options pricing and market microstructure modules
