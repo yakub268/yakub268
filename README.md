@@ -1,4 +1,4 @@
-# Jacob Ogunleye
+# Jacob
 
 Operations leader turned software engineer. Lean Six Sigma Black Belt who builds systems that ship.
 
