@@ -1,20 +1,22 @@
-# Jacob
+# Jacob Dyer
 
-Operations leader turned software engineer. Lean Six Sigma Black Belt who builds systems that ship.
+**Operations automation engineer.** 14-year Army veteran · Amazon L5 Area Manager · Lean Six Sigma Green Belt.
 
-A background in logistics and process optimization means I approach software the same way: measure, eliminate waste, ship. These are production systems — not tutorials.
+I've spent 14 years diagnosing how operations break at scale — and building the systems to fix them.
+In the Army, I digitized workflows saving $75K/year. At Amazon, I build reporting pipelines for 125K+ packages/shift.
+Outside of work, I build automation systems in Python.
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---------|-------------|-------|
-| [KaizenBoard](https://github.com/yakub268/KaizenBoard) | Full-stack continuous improvement tracker with 65 tests, CI/CD, and Docker support | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite) |
-| [quant-backtest-framework](https://github.com/yakub268/quant-backtest-framework) | Institutional-grade backtesting engine — 7 modules, 4,449 LOC. Walk-forward optimization, Monte Carlo simulation, stress testing | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas) |
-| [ssd-dispatch-tracker](https://github.com/yakub268/ssd-dispatch-tracker) | Real-time dispatch ops system deployed at enterprise logistics facility. 120+ drivers, 13k+ daily packages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite) |
-| [algo-trading-platform](https://github.com/yakub268/algo-trading-platform) | Multi-asset algorithmic trading system. 50+ strategies across crypto, forex, and prediction markets. Live-deployed | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) |
-| [ai-orchestration-blueprint](https://github.com/yakub268/ai-orchestration-blueprint) | MCP server orchestration patterns and AI agent workflows. Claude Code + Model Context Protocol | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| [ssd-dispatch-tracker](https://github.com/yakub268/ssd-dispatch-tracker) | Real-time dispatch ops system — 120+ drivers, 13K+ daily packages, multi-user SQLite, badge photo mgmt | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite) |
+| [kaizenboard](https://github.com/yakub268/kaizenboard) | Lean continuous improvement tracker — kaizen initiatives with before/after metrics, ROI tracking, impact dashboards | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) |
+| [algo-trading-platform](https://github.com/yakub268/algo-trading-platform) | Multi-asset algorithmic trading system — automated strategy execution, real-time data feeds, ensemble models | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) |
+| [ai-orchestration-blueprint](https://github.com/yakub268/ai-orchestration-blueprint) | AI agent orchestration patterns — multi-model coordination, tool routing, autonomous workflows | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| [quant-backtest-framework](https://github.com/yakub268/quant-backtest-framework) | Backtesting engine — walk-forward optimization, Monte Carlo simulation, stress testing | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas) |
 
 ---
 
@@ -22,42 +24,47 @@ A background in logistics and process optimization means I approach software the
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-**Frontend**
+**Data & Automation**
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat)
+![Excel/Power Query](https://img.shields.io/badge/Excel_Power_Query-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+**Backend & Frontend**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt)
 
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**Data & ML**
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat)
-
-**DevOps & Trading**
+**DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Alpaca](https://img.shields.io/badge/Alpaca-FFCE00?style=flat)
-![OANDA](https://img.shields.io/badge/OANDA-FF6A00?style=flat)
-![CCXT](https://img.shields.io/badge/CCXT-1A1A2E?style=flat)
+
+**Exploring**
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-## Currently
+## Background
 
-- Building algorithmic trading systems across crypto, forex, and prediction markets
-- Exploring AI agent orchestration with MCP servers and Claude Code
+- 🎖 14-year U.S. Army veteran — healthcare operations, HR, large-scale training programs
+- 📦 Amazon L5 Area Manager — 150-200 employees, 75K-125K packages/shift
+- 📜 Lean Six Sigma Green Belt — $75K annual savings, 60% workload reduction, adopted as DHA enterprise standard
+- 🎓 B.S. Healthcare Administration, Purdue Global — Dean's List, published research
+
+---
+
+**Targeting:** RPA Developer · Process Automation Engineer · Business Intelligence · Operations Analytics  
+**Location:** Aurora/Denver, CO · Open to hybrid/remote  
+**Contact:** JacobDyer268@gmail.com · [LinkedIn](https://linkedin.com/in/jdyer268)
 
 ---
 
